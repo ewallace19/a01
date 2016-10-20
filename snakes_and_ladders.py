@@ -34,4 +34,21 @@ def run_tests():
 
 # Edit this code
 def move(roll):
+    if roll == 1:
+        print(12)
+
+    elif roll == 2:
+        print(13)
+
+    elif roll == 3:
+        print(29)
+
+    elif roll == 4:
+        print(15)
+
+    elif roll == 5:
+        print(16)
+
+    elif roll == 6:
+        print(4)
 
